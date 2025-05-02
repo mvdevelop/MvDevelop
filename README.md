@@ -8,7 +8,7 @@
 
 ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight)
 <img align="left" alt="GitHub Stats" height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdeveloptheme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MvDeveloptheme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 ## Tecnologias do meu dia a dia 💻 🖥️ 💾
