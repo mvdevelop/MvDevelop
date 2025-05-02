@@ -7,6 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight)
+<img align="left" alt="GitHub Stats" height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdeveloptheme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ## Tecnologias do meu dia a dia 💻 🖥️ 💾
 
@@ -17,7 +20,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img align="left" alt="NodeJs" title="NodeJs" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
