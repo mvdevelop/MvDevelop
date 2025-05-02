@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight)
-![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MvDeveloptheme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ## Tecnologias do meu dia a dia 💻 🖥️ 💾
 
