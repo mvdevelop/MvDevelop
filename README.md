@@ -47,13 +47,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img align="left" alt="Android" title="Android" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" 
 />
 <img align="left" alt="Cloud" title="Cloud" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" 
-/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />          
 
 <br/>
