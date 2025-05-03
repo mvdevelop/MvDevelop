@@ -22,6 +22,9 @@
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img align="left" alt="Electron" title="Electron" width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
+/>
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -50,7 +53,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" 
 />
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img align="left" alt="Cloud" title="Cloud" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" 
