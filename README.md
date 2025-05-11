@@ -54,7 +54,7 @@
 
 ## Últimos projetos
 
-- [My Gastronomy App - ReactJs](https://my-gastronomy-app.vercel.app/)
-- [API Movies - ReactJs](https://movielib-navy.vercel.app/)
-- [Pokedex API - HTML | CSS | JS](https://mvdevelop.github.io/Pokedex_API/)
-- [Weather API - HTML | CSS | JS](https://wf-app-ten.vercel.app/)
+- [Ecommerce frontend - ReactJs](https://ecommerce-clothes-frontend.vercel.app/)
+- [Movies APP - ReactJs](https://movie-app-yt.vercel.app/)
+- [Pokedex APP](https://pokedex256.netlify.app/)
+- [Snake Game - ReactJs](https://snake-game-inky-pi.vercel.app/)
