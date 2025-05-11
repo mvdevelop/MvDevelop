@@ -54,7 +54,7 @@
 
 ## Últimos projetos
 
-- [Ecommerce frontend - ReactJs](https://ecommerce-clothes-frontend.vercel.app/)
-- [Movies APP - ReactJs](https://movie-app-yt.vercel.app/)
+- [Ecommerce Frontend](https://ecommerce-clothes-frontend.vercel.app/)
+- [Movies APP](https://movie-app-yt.vercel.app/)
 - [Pokedex APP](https://pokedex256.netlify.app/)
-- [Snake Game - ReactJs](https://snake-game-inky-pi.vercel.app/)
+- [Snake Game](https://snake-game-inky-pi.vercel.app/)
