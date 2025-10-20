@@ -50,7 +50,7 @@
 <br/>
 
 ## Últimos projetos
-
+- [Ecommerce Blushify](https://ecommerce-beauty-ashy.vercel.app/)
 - [Movies APP](https://movie-app-yt.vercel.app/)
 - [Pokedex APP](https://pokedex256.netlify.app/)
 - [Snake Game](https://snake-game-inky-pi.vercel.app/)
