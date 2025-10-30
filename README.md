@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Vinicius Dilly 👋
+## Hello! I'm Vinicius Dilly 👋
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-00-two.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvdevelop/)
@@ -8,7 +8,7 @@
 
 ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight)
 
-## Tecnologias do meu dia a dia 💻 🖥️ 💾
+## Technologies I use every day 💻 🖥️ 💾
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
@@ -49,7 +49,7 @@
 
 <br/>
 
-## Últimos projetos
+## Last projects
 - [Ecommerce Blushify](https://ecommerce-beauty-ashy.vercel.app/)
 - [Skyfare Traveling](https://skyfare-19sl.vercel.app/)
 - [Movies APP](https://movie-app-yt.vercel.app/)
