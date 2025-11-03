@@ -52,5 +52,5 @@
 ## Last projects
 - [Blushify E-commerce Store](https://ecommerce-beauty-ashy.vercel.app/)
 - [Skyfare Traveling Website](https://skyfare-19sl.vercel.app/)
-- [Movies Libray](https://movie-app-yt.vercel.app/)
+- [Movies Library](https://movie-app-yt.vercel.app/)
 - [Snake Mini-Game](https://snake-game-inky-pi.vercel.app/)
