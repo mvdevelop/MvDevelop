@@ -49,7 +49,7 @@
 
 <br/>
 
-## Last projects [ ]
+## Last Projects [ ]
 - [Blushify E-commerce](https://ecommerce-beauty-ashy.vercel.app/)
 - [Skyfare Traveling](https://skyfare-19sl.vercel.app/)
 - [Movies Library](https://movie-app-yt.vercel.app/)
