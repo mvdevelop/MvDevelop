@@ -8,12 +8,9 @@
 
 <!-- ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight) -->
 
-<!-- contribution graph -->
-![Contribuições](https://ghchart.rshah.org/MvDevelop)
-
-<!-- fallback stats badges -->
 [![Followers](https://img.shields.io/github/followers/MvDevelop?label=Followers&style=social)]
 [![Repos](https://img.shields.io/github/repos/MvDevelop?style=for-the-badge)]
+[![Stars](https://img.shields.io/github/stars/MvDevelop?style=for-the-badge)]
 
 ## Technologies I use every day 💻 🖥️ 💾
 
