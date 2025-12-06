@@ -6,7 +6,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight)
+<!-- ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight) -->
+
+<!-- contributions graph -->
+![Contribuições](https://ghchart.rshah.org/MvDevelop)
+
+<!-- quick stats fallback -->
+[![Followers](https://img.shields.io/github/followers/MvDevelop?label=Followers&style=social)]
+[![Repos](https://img.shields.io/github/repos/MvDevelop?style=for-the-badge)]
 
 ## Technologies I use every day 💻 🖥️ 💾
 
