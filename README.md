@@ -8,10 +8,10 @@
 
 <!-- ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight) -->
 
-<!-- contributions graph -->
+<!-- contribution graph -->
 ![Contribuições](https://ghchart.rshah.org/MvDevelop)
 
-<!-- quick stats fallback -->
+<!-- fallback stats badges -->
 [![Followers](https://img.shields.io/github/followers/MvDevelop?label=Followers&style=social)]
 [![Repos](https://img.shields.io/github/repos/MvDevelop?style=for-the-badge)]
 
