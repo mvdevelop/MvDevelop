@@ -49,7 +49,10 @@
 />
 <img align="left" alt="Cloud" title="Cloud" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" 
-/>          
+/>
+<img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" 
+    src="https://jsdelivr.net" 
+/>
 
 <br/>
 
