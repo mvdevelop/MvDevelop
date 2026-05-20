@@ -6,9 +6,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-<!-- ![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight) -->
+![MvDevelop GitHub stats](https://github-readme-stats.vercel.app/api?username=MvDevelop&show_icons=true&theme=tokyonight) -->
 
-<!-- [![Followers](https://img.shields.io/github/followers/MvDevelop?label=Followers&style=social)]
+[![Followers](https://img.shields.io/github/followers/MvDevelop?label=Followers&style=social)]
 [![Repos](https://img.shields.io/github/repos/MvDevelop?style=for-the-badge)]
 [![Stars](https://img.shields.io/github/stars/MvDevelop?style=for-the-badge)] -->
 
@@ -49,9 +49,3 @@
 />
 
 <br/>
-
-## Last Projects [ ]
-- [Blushify E-commerce](https://ecommerce-beauty-ashy.vercel.app/)
-- [Skyfare Traveling](https://skyfare-19sl.vercel.app/)
-- [Movies Library](https://movie-app-yt.vercel.app/)
-- [Snake Mini-Game](https://snake-game-inky-pi.vercel.app/)
