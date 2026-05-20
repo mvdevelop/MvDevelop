@@ -23,14 +23,14 @@
 <img align="left" alt="Tailwindcss" title="Tailwindcss" width="30px" style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img align="left" alt="NodeJs" title="NodeJs" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+<img align="left" alt="Blazor" title="Blazor" width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"
 />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
-<img align="left" alt="Springboot" title="Springboot" width="30px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+<img align="left" alt=".Net" title=".Net" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
 />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
