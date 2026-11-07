@@ -1,56 +1,86 @@
-## Hello! I'm Vinicius Dilly 👋 !!!
+<div align="center">
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mvdev-portfolio.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvdevelop/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+# 👋 Olá, eu sou o Vinicius Dilly!
 
-## Technologies I use every day 💻 🖥️ 💾
+### 💻 Fullstack Developer | TypeScript • React • .NET • Cloud
 
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img align="left" alt="Tailwindcss" title="Tailwindcss" width="30px" style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img align="left" alt="Blazor" title="Blazor" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"
-/>
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img align="left" alt=".Net" title=".Net" width="30px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img align="left" alt="Cloud" title="Cloud" width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" 
-/>
+[![Website](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvdevelop/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 
-<br clear="left"/>
-<br/>
+</div>
 
-## Last Projects 🚀
+---
 
-Here are some of my latest projects built across different fullstack architectures:
+## 🚀 Sobre mim
 
+Desenvolvedor fullstack apaixonado por criar soluções completas — do frontend ao backend, do banco de dados ao deploy. Trabalho diariamente com o ecossistema **JavaScript/TypeScript** e **.NET**, sempre buscando código limpo, boas práticas e experiências de usuário memoráveis.
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- | :--- |
-| **🦜 Macaw English School** | English School Platform | `React` `TypeScript` `.NET` | [Live Demo](https://macaw-english-course.vercel.app/) \| [Code](https://github.com) |
-| **🌐 Macaw Social Media** | Full-scale Social Network | `Next.js` `TypeScript` `Supabase` | [Live Demo](https://macaw-social-media.vercel.app/) \| [Code](https://github.com) |
-| **🐍 Snake´s Game** | Retro Arcade Mini-Game | `React` `JavaScript` `Tailwind CSS` | [Live Demo](https://snake-game-inky-pi.vercel.app/) \| [Code](https://github.com) |
+- 🔭 Atualmente construindo projetos fullstack com **React**, **Next.js** e **.NET**
+- 🌱 Explorando **Cloud**, **Docker** e arquiteturas escaláveis
+- 💬 Fale comigo sobre **TypeScript, React, C#, Blazor, APIs e bancos de dados**
+- ⚡ Curiosidade: gosto de unir design limpo com performance técnica
+
+---
+
+## 🛠️ Tecnologias que uso todos os dias
+
+<div align="center">
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+### Backend & Dados
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Últimos Projetos
+
+<div align="center">
+
+| 🦜 **Macaw English School** | 🌐 **Macaw Social Media** | 🐍 **Snake's Game** |
+| :---: | :---: | :---: |
+| Plataforma de ensino de inglês | Rede social completa | Mini-game retrô arcade |
+| `React` `TypeScript` `.NET` | `Next.js` `TypeScript` `Supabase` | `React` `JavaScript` `Tailwind` |
+| [🔗 Demo](https://macaw-english-course.vercel.app/) · [💻 Código](https://github.com) | [🔗 Demo](https://macaw-social-media.vercel.app/) · [💻 Código](https://github.com) | [🔗 Demo](https://snake-game-inky-pi.vercel.app/) · [💻 Código](https://github.com) |
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdevelop&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Vamos conversar!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvdevelop/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
+
+⭐ Se algum projeto te ajudou, deixe uma estrela!
+
+</div>
