@@ -50,7 +50,7 @@ Here are some of my latest projects built across different fullstack architectur
 
 
 | Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **🦜 Macaw English School** | English School Platform | `React` `TypeScript` `.NET` | [Live Demo](https://macaw-english-course.vercel.app/) \| [Code](https://github.com) |
 | **🌐 Macaw Social Media** | Full-scale Social Network | `Next.js` `TypeScript` `Supabase` | [Live Demo](https://macaw-social-media.vercel.app/) \| [Code](https://github.com) |
 | **🐍 Snake´s Game** | Retro Arcade Mini-Game | `React` `JavaScript` `Tailwind CSS` | [Live Demo](https://snake-game-inky-pi.vercel.app/) \| [Code](https://github.com) |
