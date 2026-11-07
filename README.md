@@ -1,11 +1,10 @@
-
 <div align="center">
 
-# 👋 Olá, eu sou o Vinicius Dilly!
+# 👋 Hi, I'm Vinicius Dilly!
 
 ### 💻 Fullstack Developer | TypeScript • React • .NET • Cloud
 
-[![Website](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvdevelop/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
@@ -14,18 +13,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Desenvolvedor fullstack apaixonado por criar soluções completas — do frontend ao backend, do banco de dados ao deploy. Trabalho diariamente com o ecossistema **JavaScript/TypeScript** e **.NET**, sempre buscando código limpo, boas práticas e experiências de usuário memoráveis.
+Fullstack developer passionate about building complete solutions — from frontend to backend, from database to deployment. I work daily with the **JavaScript/TypeScript** and **.NET** ecosystems, always striving for clean code, best practices, and memorable user experiences.
 
-- 🔭 Atualmente construindo projetos fullstack com **React**, **Next.js** e **.NET**
-- 🌱 Explorando **Cloud**, **Docker** e arquiteturas escaláveis
-- 💬 Fale comigo sobre **TypeScript, React, C#, Blazor, APIs e bancos de dados**
-- ⚡ Curiosidade: gosto de unir design limpo com performance técnica
+- 🔭 Currently building fullstack projects with **React**, **Next.js**, and **.NET**
+- 🌱 Exploring **Cloud**, **Docker**, and scalable architectures
+- 💬 Ask me about **TypeScript, React, C#, Blazor, APIs, and databases**
+- ⚡ Fun fact: I love combining clean design with technical performance
 
 ---
 
-## 🛠️ Tecnologias que uso todos os dias
+## 🛠️ Technologies I Use Every Day
 
 <div align="center">
 
@@ -35,7 +34,7 @@ Desenvolvedor fullstack apaixonado por criar soluções completas — do fronten
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-### Backend & Dados
+### Backend & Data
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -50,21 +49,21 @@ Desenvolvedor fullstack apaixonado por criar soluções completas — do fronten
 
 ---
 
-## 🚀 Últimos Projetos
+## 🚀 Latest Projects
 
 <div align="center">
 
 | 🦜 **Macaw English School** | 🌐 **Macaw Social Media** | 🐍 **Snake's Game** |
 | :---: | :---: | :---: |
-| Plataforma de ensino de inglês | Rede social completa | Mini-game retrô arcade |
+| English learning platform | Full-scale social network | Retro arcade mini-game |
 | `React` `TypeScript` `.NET` | `Next.js` `TypeScript` `Supabase` | `React` `JavaScript` `Tailwind` |
-| [🔗 Demo](https://macaw-english-course.vercel.app/) · [💻 Código](https://github.com) | [🔗 Demo](https://macaw-social-media.vercel.app/) · [💻 Código](https://github.com) | [🔗 Demo](https://snake-game-inky-pi.vercel.app/) · [💻 Código](https://github.com) |
+| [🔗 Demo](https://macaw-english-course.vercel.app/) · [💻 Code](https://github.com) | [🔗 Demo](https://macaw-social-media.vercel.app/) · [💻 Code](https://github.com) | [🔗 Demo](https://snake-game-inky-pi.vercel.app/) · [💻 Code](https://github.com) |
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -75,13 +74,13 @@ Desenvolvedor fullstack apaixonado por criar soluções completas — do fronten
 
 ---
 
-## 📫 Vamos conversar!
+## 📫 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvdevelop/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
 
-⭐ Se algum projeto te ajudou, deixe uma estrela!
+⭐ If any project helped you, leave a star!
 
 </div>
