@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Olá, eu sou o Vinicius Dilly!
@@ -67,8 +68,8 @@ Desenvolvedor fullstack apaixonado por criar soluções completas — do fronten
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdevelop&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
