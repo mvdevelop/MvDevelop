@@ -101,25 +101,6 @@ A browser-based mini-game inspired by the classic Snake game.
 - **Technologies:** React, JavaScript, Tailwind CSS
 - **Live Demo:** [snake-game-inky-pi.vercel.app](https://snake-game-inky-pi.vercel.app/)
 
-### 💄 Blushify
-
-**Cosmetics E-Commerce Store**
-
-A frontend e-commerce project focused on a cosmetics shopping experience.
-
-- **Technologies:** React, JavaScript
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect
