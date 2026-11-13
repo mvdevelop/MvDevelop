@@ -83,15 +83,6 @@ A web platform designed for English language learning.
 - **Technologies:** React, TypeScript, .NET, Vite
 - **Live Demo:** [macaw-english-course.vercel.app](https://macaw-english-course.vercel.app/)
 
-### 🌐 Macaw Social Media
-
-**Social Networking Application**
-
-A social media project built with a modern frontend and Supabase integration.
-
-- **Technologies:** Next.js, TypeScript, Supabase
-- **Live Demo:** [macaw-social-media.vercel.app](https://macaw-social-media.vercel.app/)
-
 ### 🐍 Snake's Game
 
 **Retro Arcade Mini-Game**
@@ -102,19 +93,5 @@ A browser-based mini-game inspired by the classic Snake game.
 - **Live Demo:** [snake-game-inky-pi.vercel.app](https://snake-game-inky-pi.vercel.app/)
 
 ---
-
-## 📫 Let's Connect
-
-I'm interested in software development opportunities, collaboration, and projects involving backend engineering and modern web technologies.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mvdev-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-dilly/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MvDevelop)
-
-**MvDev — Building ideas into software.**
-
-⭐ Feel free to explore my repositories and projects!
 
 </div>
