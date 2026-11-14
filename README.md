@@ -70,28 +70,4 @@ I also work with **TypeScript, JavaScript, React, and Next.js**, allowing me to 
 
 ---
 
-## 💻 Featured Projects
-
-A selection of projects focused on web development, application architecture, and practical solutions.
-
-### 🦜 Macaw English School
-
-**English Learning Platform**
-
-A web platform designed for English language learning.
-
-- **Technologies:** React, TypeScript, .NET, Vite
-- **Live Demo:** [macaw-english-course.vercel.app](https://macaw-english-course.vercel.app/)
-
-### 🐍 Snake's Game
-
-**Retro Arcade Mini-Game**
-
-A browser-based mini-game inspired by the classic Snake game.
-
-- **Technologies:** React, JavaScript, Tailwind CSS
-- **Live Demo:** [snake-game-inky-pi.vercel.app](https://snake-game-inky-pi.vercel.app/)
-
----
-
 </div>
