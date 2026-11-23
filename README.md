@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vinicius Dilly
 
-### Full Stack Developer · Backend Engineering
+### Backend Engineering
 
 Building backend systems and REST APIs with **C# and .NET**, connecting them to modern frontends with **TypeScript and React**.
 
